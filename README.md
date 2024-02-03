@@ -18,6 +18,7 @@ As international money transfers become more automated, it becomes easier for cr
 Design a model to address illegal financial activities like money laundering.The main objective of this model is to recognize such illegitimate transaction so we can take some legal action in order to improve money transaction system.
 
 **Objective**
+
 Minimize illegal transactions
 
 Maximize transaction transparency 
