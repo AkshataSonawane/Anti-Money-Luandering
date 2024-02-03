@@ -1,4 +1,4 @@
-![image](https://github.com/AkshataSonawane/Anti-Money-Luandering-/assets/147258127/1956cf70-aa00-4222-94e7-e25b20074c84)![image](https://github.com/AkshataSonawane/Anti-Money-Luandering-/assets/147258127/bae87112-dbae-47ff-b4c1-56cdb6534fc1)![image](https://github.com/AkshataSonawane/Anti-Money-Luandering-/assets/147258127/cd377d6f-a606-4602-9541-c88df78fa12b)# Anti-Money-Luandering-
+# Anti-Money-Luandering-
 
 **Overview And Scope** 
 
