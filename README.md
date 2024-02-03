@@ -20,7 +20,6 @@ Design a model to address illegal financial activities like money laundering.The
 **Objective**
 
 Minimize illegal transactions
-
 Maximize transaction transparency 
 
 **Constraints**
